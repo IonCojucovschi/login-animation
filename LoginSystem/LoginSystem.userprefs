@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{F0294DC5-7098-4648-8F70-2E39EA621929}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginSystem/Resources/drawable/ButtonSignUpStyle.xml">
+    <Files>
+      <File FileName="LoginSystem/MainActivity.cs" Line="39" Column="24" />
+      <File FileName="LoginSystem/Resources/drawable/ProgressBarStyle.xml" Line="1" Column="1" />
+      <File FileName="LoginSystem/Resources/drawable/ButtonSignInStyle.xml" Line="1" Column="1" />
+      <File FileName="LoginSystem/Resources/drawable/edit_text_style.xml" Line="1" Column="1" />
+      <File FileName="LoginSystem/Resources/drawable/ButtonSignUpStyle.xml" Line="17" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Documents/Projects/ReadAbook/src/Core/ViewModels/Base/ProjectNavigationBaseViewModel.cs" line="280" offsetX="639" offsetY="5011" expression="viewModel" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.LoginSystem PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MultiItemStartupConfigurations />
+</Properties>
